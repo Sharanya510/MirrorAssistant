@@ -1,0 +1,9 @@
+Flask
+opencv-python
+Keras
+numpy
+six
+flask_cors
+pandas
+matplotlib
+scipy
